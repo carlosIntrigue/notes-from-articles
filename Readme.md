@@ -1,3 +1,1 @@
-## course notes
-
-Typescript FEM
+# Notes from articles
